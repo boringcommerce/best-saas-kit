@@ -20,20 +20,20 @@ interface WelcomeEmailProps {
 
 export const WelcomeEmail = ({
   username = 'there',
-  loginUrl = 'https://app.bestsaaskit.pro/login',
+  loginUrl = 'https://app.boco.ai/login',
 }: WelcomeEmailProps) => {
   return (
     <Html>
       <Head />
-      <Preview>Welcome to Best SAAS Kit Pro - Your journey begins here!</Preview>
+      <Preview>Welcome to boco.ai - Your journey begins here!</Preview>
       <Body style={main}>
         <Container style={container}>
-          <Heading style={h1}>Welcome to Best SAAS Kit Pro! 🚀</Heading>
+          <Heading style={h1}>Welcome to boco.ai! 🚀</Heading>
           
           <Text style={text}>Hi {username},</Text>
           
           <Text style={text}>
-            We're thrilled to have you on board! Thank you for choosing Best SAAS Kit Pro
+            We're thrilled to have you on board! Thank you for choosing boco.ai
             for your business needs. We're confident that our platform will help you
             achieve your goals and streamline your operations.
           </Text>
@@ -59,7 +59,7 @@ export const WelcomeEmail = ({
 
           <Text style={footer}>
             If you have any questions, feel free to{' '}
-            <Link href="mailto:support@bestsaaskit.pro" style={link}>
+            <Link href="mailto:support@boco.ai" style={link}>
               reach out to our support team
             </Link>
             . We're here to help!

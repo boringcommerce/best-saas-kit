@@ -1,8 +1,8 @@
-# Best SaaS Kit Pro 🚀
+# boco.ai 🚀
 
-A modern, production-ready SaaS starter kit built with Next.js 15, TypeScript, Tailwind CSS, and more. Perfect for launching your next SaaS project quickly and efficiently.
+A modern, AI-powered SaaS platform built with Next.js 15, TypeScript, Tailwind CSS, and more.
 
-![SaaS Kit Banner](public/Saas-Header.png)
+![boco.ai Banner](public/Saas-Header.png)
 
 ## 🌟 Features
 
@@ -29,12 +29,12 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/zainulabedeen123/best-saas-kit.git
+   git clone https://github.com/zainulabedeen123/boco.ai.git
    ```
 
 2. **Navigate to Project Directory**
    ```bash
-   cd best-saas-kit
+   cd boco.ai
    ```
 
 3. **Install Dependencies**
@@ -99,7 +99,7 @@ Before you begin, ensure you have the following installed:
 ## 📚 Project Structure
 
 ```
-best-saas-kit/
+boco.ai/
 ├── src/
 │   ├── app/             # Next.js app router pages
 │   ├── components/      # React components

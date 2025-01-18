@@ -4,8 +4,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Best SAAS Kit Pro',
-  description: 'The ultimate starter kit for your SAAS project',
+  title: 'boco.ai',
+  description: 'The ultimate AI-powered SaaS platform',
 }
 
 export default function RootLayout({

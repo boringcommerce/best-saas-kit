@@ -137,7 +137,7 @@ export default function Home() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Link href="/" className="text-xl font-bold text-white">
-                Startup
+                boco.ai
               </Link>
             </div>
             <div className="hidden md:flex items-center space-x-8">
@@ -152,7 +152,7 @@ export default function Home() {
                 <span>Docs</span>
               </Link>
               <Link 
-                href="https://github.com/zainulabedeen123/best-saas-kit/discussions" 
+                href="https://github.com/zainulabedeen123/boco.ai" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-sm text-white/70 hover:text-white"
@@ -165,7 +165,7 @@ export default function Home() {
             </div>
             <div className="flex items-center space-x-4">
               <Link 
-                href="https://github.com/zainulabedeen123/best-saas-kit"
+                href="https://github.com/zainulabedeen123/boco.ai"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm text-white/70 hover:text-white flex items-center space-x-1"
@@ -197,7 +197,7 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <div className="inline-flex items-center px-3 py-1 rounded-full bg-white/5 border border-white/10 text-sm text-white/70 mb-6">
-                <span className="mr-2">⚡</span> Ship faster with our SaaS Kit
+                <span className="mr-2">⚡</span> Ship faster with boco.ai
               </div>
               <h1 className="text-5xl sm:text-6xl font-bold text-white leading-[1.1] tracking-tight mb-6">
                 Ship your startup<br />in days, not weeks
@@ -227,7 +227,7 @@ export default function Home() {
                   Get Started
                 </Link>
                 <Link
-                  href="https://github.com/zainulabedeen123/best-saas-kit"
+                  href="https://github.com/zainulabedeen123/boco.ai"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex justify-center items-center px-6 py-3 rounded-lg border border-white/10 text-white font-medium hover:bg-white/5 transition-colors"
@@ -753,7 +753,7 @@ export default function Home() {
               <h3 className="font-semibold text-white mb-4">Resources</h3>
               <ul className="space-y-2">
                 <li><Link 
-                  href="https://github.com/zainulabedeen123/best-saas-kit/discussions" 
+                  href="https://github.com/zainulabedeen123/boco.ai/discussions" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-white/70 hover:text-white"
@@ -769,7 +769,7 @@ export default function Home() {
               <h3 className="font-semibold text-white mb-4">Connect</h3>
               <ul className="space-y-2">
                 <li><Link href="https://twitter.com" className="text-white/70 hover:text-white">Twitter</Link></li>
-                <li><Link href="https://github.com/zainulabedeen123/best-saas-kit" target="_blank" rel="noopener noreferrer" className="text-white/70 hover:text-white">GitHub</Link></li>
+                <li><Link href="https://github.com/zainulabedeen123/boco.ai" target="_blank" rel="noopener noreferrer" className="text-white/70 hover:text-white">GitHub</Link></li>
                 <li><Link href="https://discord.com" className="text-white/70 hover:text-white">Discord</Link></li>
                 <li><Link href="/newsletter" className="text-white/70 hover:text-white">Newsletter</Link></li>
               </ul>
